@@ -1,3 +1,5 @@
+## Project Description
+
 - Performed ETL processes using Power Query to clean, transform, and structure the data by removing duplicates, renaming columns, and changing data types. Applied metadata management techniques to ensure data integrity and accuracy.
 
 - Conducted Exploratory Data Analysis and data modeling using DAX queries, formulating measures and columns to improve dashboard KPIs in Power BI. Built automated dashboards that support real-time reporting and decision-making applications.
